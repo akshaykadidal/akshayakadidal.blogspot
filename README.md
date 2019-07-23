@@ -1,2 +1,2 @@
 # akshayakadidal.blogspot
-Files used in blog
+Folders contain the files used in blog
