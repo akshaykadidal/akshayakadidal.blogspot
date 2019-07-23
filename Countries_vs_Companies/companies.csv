@@ -1,0 +1,502 @@
+Company,Rev,Employees
+Walmart,500343,2300000
+China National Petroleum,326008,1636532
+State Grid,348903,913546
+Volkswagen,260028,642292
+Agricultural Bank of China,122366,491578
+Gazprom,111983,469600
+Industrial & Commercial Bank of China,153021,453048
+Kroger,122662,449000
+Berkshire Hathaway,242137,377000
+Toyota Motor,265172,370870
+China Construction Bank,138594,370415
+Ping An Insurance,144197,342550
+General Electric,122274,313000
+Bank of China,115423,311133
+Walgreens Boots Alliance,118214,290000
+Daimler,185235,289321
+AT&T,160546,254000
+Sinopec Group,326953,249142
+Japan Post Holdings,116616,245863
+CVS Health,184765,203000
+BNP Paribas,117375,189509
+Costco,129025,182000
+General Motors,157311,180000
+China Life Insurance,120224,170517
+Verizon,126034,155400
+SAIC Motor,128819,148767
+Allianz,123532,140553
+Apple,229234,123000
+Total,149099,98277
+AXA,149461,95728
+Royal Dutch Shell,311870,84000
+Glencore,205476,82681
+BP,244582,74000
+Exxon Mobil,244363,71000
+McKesson,208357,68000
+Chevron,134533,51900
+Cardinal Health,129976,40400
+Prudential,111458,24711
+AmerisourceBergen,153144,19500
+Fannie Mae,112394,7200
+Samsung Electronics,211940,320671
+UnitedHealth Group,201159,300000
+Amazon.com,177866,647500
+EXOR Group,161677,307637
+Ford Motor,156776,199000
+China State Construction Engineering,156071,302827
+Hon Hai Precision Industry,154699,803126
+Honda Motor,138646,215638
+Trafigura Group,136421,4316
+JPMorgan Chase & Co.,113899,256105
+BMW Group,111231,134682
+Alphabet,110855,98771
+China Mobile Communications,110159,493000
+Nissan Motor,107868,138910
+Nippon Telegraph & Telephone,106500,282550
+China Railway Engineering Group,102767,261333
+Home Depot,100904,400000
+China Railway Construction,100855,261333
+Assicurazioni Generali,100552,71327
+Bank of America Corp.,100264,204489
+Express Scripts Holding,100065,26600
+Wells Fargo,97741,258700
+Lukoil,93897,110000
+Boeing,93392,153027
+Dongfeng Motor,93294,146843
+Siemens,91585,379000
+Phillips 66,91568,14600
+Carrefour,91276,374478
+Nestle,91222,308000
+Anthem,90039,63900
+Microsoft,89950,134944
+Huawei Investment & Holding,89311,320000
+Petrobras,88827,68829
+Valero Energy,88407,10015
+Bosch Group,87997,409900
+Citigroup,87966,204000
+Banco Santander,87401,202713
+Hyundai Motor,85259,104731
+Hitachi,84559,307275
+Comcast,84526,184000
+Deutsche Telekom,84481,216000
+Credit Agricole,84222,7395
+Enel,84134,69272
+SK Holdings,83544,83645
+SoftBank Group,82665,74952
+China Resources,82184,21630
+China National Offshore Oil,81482,98750
+Uniper,81428,12180
+ENI,80006,31701
+HSBC Holdings,79637,235217
+China Communications Construction,79417,118000
+IBM,79139,350600
+Dell Technologies,78660,157000
+Electricite de France,78490,152030
+State Farm Insurance Cos.,78331,65664
+Pacific Construction Group,77205,365425
+Sony,77116,117300
+Sinochem Group,76765,50000
+JXTG Holdings,76629,24691
+Johnson & Johnson,76450,134000
+China Energy Investment,75522,30000
+Tesco,75405,450000
+AEON,75339,500000
+Engie,75279,160000
+Airbus Group,75261,133671
+Freddie Mac,74676,6185
+Pemex,73850,138215
+Peugeot,73506,170156
+China Minmetals,72997,177000
+China Southern Power Grid,72787,299842
+Amer International Group,72766,17886
+BASF,72677,122404
+China Post Group,72197,860200
+Panasonic,72045,271869
+Rosneft Oil,72028,261500
+Target,71879,360000
+People’s Insurance Co. of China,71579,215362
+Royal Ahold Delhaize,70891,375000
+Deutsche Post DHL Group,70545,547459
+Munich Re Group,70143,42410
+Societe Generale,69948,146000
+COFCO,69669,124266
+U.S. Postal Service,69636,497157
+Beijing Automotive Group,69591,128735
+China FAW Group,69524,123658
+Nippon Life Insurance,68684,70519
+ArcelorMittal,68679,209000
+Lowe’s,68619,255000
+Mitsubishi,68301,77476
+Marubeni,68057,39126
+Marathon Petroleum,67610,43800
+Tewoo Group,66577,17105
+Itau Unibanco Holding,66287,99332
+Renault,66247,181344
+Procter & Gamble,66217,95000
+MetLife,66153,49000
+Indian Oil,65916,34999
+UPS,65872,346415
+Aegon,65437,28318
+China North Industries Group,64646,226338
+China Telecommunications,63974,412868
+Zurich Insurance Group,63961,53535
+Aviva,63934,30021
+PepsiCo,63525,267000
+Dai-ichi Life Holdings,63522,62943
+Intel,62761,107100
+DowDuPont,62683,98000
+Reliance Industries,62304,187729
+CITIC Group,61316,258433
+Equinor,61187,20245
+Groupe BPCE,61128,104770
+Archer Daniels Midland,60828,32300
+Unilever,60548,155000
+Aetna,60535,49828
+FedEx,60319,425000
+Auchan Holding,60028,341349
+Albertsons Cos.,59925,275000
+Vodafone Group,59838,98996
+United Technologies,59837,240000
+Prudential Financial,59689,49705
+Aviation Industry Corp. of China,59263,535942
+China Baowu Steel Group,59255,176518
+PTT,58819,25275
+Telefonica,58624,120138
+Toyota Tsusho,58586,53241
+Banco Bradesco,58062,108794
+ChemChina,57989,142083
+Bank of Communications,57711,89542
+Roche Group,56634,94442
+Anheuser-Busch InBev,56444,182915
+ING Group,56347,54302
+Legal & General Group,55999,7570
+Louis Dreyfus,55440,17210
+Sysco,55371,66500
+Banco do Brasil,55269,99161
+Disney,55137,201000
+Mitsubishi UFJ Financial Group,54769,106800
+LG Electronics,54314,75000
+Seven & I Holdings,54217,55011
+America Movil,54006,189448
+JD.com,53965,178000
+PowerChina,53870,186234
+Humana,53767,41146
+POSCO,53244,29648
+Shandong Weiqiao Pioneering Group,53203,117718
+Tokyo Electric Power,52809,38671
+Pfizer,52546,92400
+Korea Electric Power,52492,20705
+Lloyds Banking Group,52422,75000
+HP,52056,49000
+Petronas,52028,51000
+Sumitomo Mitsui Financial Group,52026,73000
+Bayer,51933,110838
+Sinopharm,51844,110641
+Wesfarmers,51600,223000
+Finatis,51578,231544
+Oil & Natural Gas,51219,33560
+Nippon Steel & Sumitomo Metal,51164,92309
+JBS,51118,235000
+Lockheed Martin,51048,105000
+CNP Assurances,50737,4800
+Guangzhou Automobile Industry Group,50323,84290
+Novartis,50135,125
+Itochu,49732,102762
+Sberbank,49698,325075
+Continental,49608,235473
+AIG,49520,49800
+Christian Dior,49221,131310
+Tokio Marine Holdings,48731,39191
+Centene,48572,33700
+Deutsche Bahn,48124,295653
+Cisco Systems,48005,74200
+China Merchants Bank,47951,74590
+RWE,47832,17748
+HCA Healthcare,47653,249000
+State Bank of India,47551,264041
+Energy Transfer Equity,47487,11768
+ThyssenKrupp,47389,161096
+Kia Motors,47360,53255
+China Pacific Insurance (Group),47319,101887
+MS&AD Insurance Group Holdings,47095,41295
+Aluminum Corp. of China,46684,103493
+Deutsche Bank,46511,91463
+Banco Bilbao Vizcaya Argentaria,46508,137968
+Orange,46324,151556
+Vinci,46302,194428
+Shanghai Pudong Development Bank,46295,52832
+Woolworths Group,46179,27000
+Denso,46106,194428
+China Evergrande Group,46019,125526
+Saint-Gobain,46002,180000
+Tata Motors,45842,81090
+Bunge,45794,31000
+Shandong Energy Group,45650,158840
+Hengli Group,45563,63420
+KDDI,45508,18418
+KDDI,45508,18418
+Industrial Bank,45491,58997
+Caterpillar,45462,98400
+HBIS Group,45390,123178
+Lenovo Group,45350,54000
+Manulife Financial,44941,34000
+China South Industries Group,44785,172030
+China National Building Material Group,44701,100000
+Hanwha,44590,52909
+China Shipbuilding Industry,44431,173201
+Mitsui,44155,42304
+Nationwide,43940,33135
+Wilmar International,43846,90000
+Morgan Stanley,43642,57633
+Sumitomo,43570,73016
+China Minsheng Banking,43298,57882
+Greenland Holding Group,42970,33473
+Pertamina,42959,27318
+E.ON,42795,43302
+Liberty Mutual Insurance Group,42687,50000
+Sinomach,42638,80000
+Swiss Re,42487,14485
+New York Life Insurance,42296,11320
+Goldman Sachs Group,42254,36600
+American Airlines Group,42207,126600
+Best Buy,42151,125000
+Repsol,41863,24532
+Cigna,41616,46000
+Charter Communications,41581,94800
+SSE,41383,20785
+Delta Air Lines,41244,86564
+Zhejiang Geely Holding Group,41172,80000
+ZF Friedrichshafen,41080,136820
+Metro,40957,135890
+Wuchan Zhongda Group,40929,19071
+Sanofi,40810,110000
+Brookfield Asset Management,40786,80000
+China United Network Communications,40664,252522
+Facebook,40653,30275
+Honeywell International,40534,131000
+Merck,40122,69000
+Lufthansa Group,40105,135534
+Rio Tinto Group,40030,47000
+Mitsubishi Electric,39995,138700
+China Merchants Group,39971,108737
+SABIC,39939,35000
+Power Corp. of Canada,39493,30484
+Jardine Matheson,39456,444000
+ACS,39338,122120
+Pegatron,39238,177950
+Volvo,39172,105
+Magna International,38946,174000
+Shaanxi Yanchang Petroleum (Group),38898,130614
+China Huaneng Group,38872,102569
+GlaxoSmithKline,38868,98462
+Talanx,38603,20419
+Royal Bank of Canada,38551,79308
+Allstate,38524,42900
+Shaanxi Coal & Chemical Industry,38483,119416
+AIA Group,38330,20000
+BHP Billiton,38285,62000
+Tyson Foods,38260,122000
+Fresenius,38197,273249
+Alimentation Couche-Tard,37905,105000
+Alibaba Group Holding,37771,66421
+United Continental Holdings,37736,88000
+Oracle,37728,138000
+J. Sainsbury,37711,186900
+Poste Italiane,37695,127431
+Maersk Group,37500,88000
+UBS Group,37317,61253
+Bouygues,37259,129000
+George Weston,37212,198000
+Meiji Yasuda Life Insurance,37160,41536
+Edeka Zentrale,37125,369300
+Mitsubishi Heavy Industries,37103,80744
+China Poly Group,37002,88407
+Fujitsu,36991,140365
+Bharat Petroleum,36851,12567
+Tech Data,36775,14000
+Accenture,36766,477000
+Canon,36388,197776
+Centrica,36083,34901
+TIAA,36025,17500
+SNCF Mobilites,35880,201816
+TJX,35865,270000
+China Everbright Group,35840,66100
+Midea Group,35794,101826
+Intesa Sanpaolo,35752,96892
+Vale,35713,74098
+Toshiba,35630,141256
+American Express,35583,55000
+Coca-Cola,35410,61800
+Aisin Seiki,35281,100000
+Iberdrola,35240,28836
+Tencent Holdings,35179,54309
+China Vanke,35117,77708
+China Energy Engineering Group,35048,168280
+Publix Super Markets,34837,193000
+China COSCO Shipping,34668,100550
+Barclays,34507,79900
+Toronto-Dominion Bank,34501,83160
+LyondellBasell Industries,34484,13400
+Noble Group,34421,500
+Nike,34350,74400
+ABB,34312,147000
+Daiwa House Industry,34262,13623
+China Aerospace Science & Technology,34254,173102
+Andeavor,34204,14300
+Enbridge,34196,11000
+China Aerospace Science & Industry,34073,145987
+Sompo Holdings,34028,16095
+Suzuki Motor,33912,65179
+Commonwealth Bank of Australia,33887,51800
+Sumitomo Life Insurance,33821,42098
+World Fuel Services,33696,5000
+Mitsubishi Chemical Holdings,33616,54111
+Country Garden Holdings,33572,124837
+Quanta Computer,33564,70000
+DZ Bank,33563,30279
+Exelon,33531,33400
+Massachusetts Mutual Life Insurance,33495,11811
+JFE Holdings,33202,60439
+Jizhong Energy Group,33188,118600
+Xiamen ITG Holding Group,32902,19639
+Cedar Holdings Group,32712,31065
+Xiamen C&D,32588,21133
+ConocoPhillips,32584,11400
+Jiangsu Shagang Group,32561,34634
+Bridgestone,32495,143616
+Chubb,32243,31000
+Mizuho Financial Group,32142,56375
+Taiwan Semiconductor Manufacturing,32126,46968
+China Electronics,31990,137135
+Jiangxi Copper,31964,34000
+China National Aviation Fuel Group,31942,12643
+CHS,31935,11626
+Credit Suisse Group,31900,45680
+CK Hutchison Holdings,31892,270000
+Xiamen Xiangyu Group,31676,7926
+3M,31657,91536
+BT Group,31439,106400
+Mazda Motor,31356,46398
+Time Warner,31271,26000
+Hyundai Mobis,31091,7612
+Xinxing Cathay International Group,31078,56701
+CRH,31069,89213
+General Dynamics,30973,105600
+Subaru,30735,37771
+CRRC,30634,183061
+Schlumberger,30440,100000
+Rite Aid,30215,53100
+China Electronics Technology Group,30176,140493
+Johnson Controls International,30172,121000
+USAA,30016,32896
+Capital One Financial,29999,49301
+L’Oreal,29926,82606
+China State Shipbuilding,29797,70009
+Deere,29738,60476
+State Power Investment,29727,127182
+Medtronic,29710,86000
+China Huadian,29612,105006
+Idemitsu Kosan,29606,7503
+Yankuang Group,29474,104746
+INTL FCStone,29424,1609
+Northwestern Mutual,29331,7500
+UniCredit Group,29257,96348
+Enterprise Products Partners,29242,7000
+Compal Electronics,29175,43000
+Rajesh Exports,29125,383
+Air France-KLM Group,29064,84714
+Travelers Cos.,28902,30800
+Inditex,28887,171839
+Hewlett Packard Enterprise,28871,60000
+Cathay Life Insurance,28805,39822
+Philip Morris International,28748,77400
+Coop Group,28601,70000
+Compass Group,28578,595841
+Westpac Banking,28565,35029
+Migros Group,28518,79303
+Twenty-First Century Fox,28500,22400
+Phoenix Pharma,28401,27638
+Medipal Holdings,28398,15993
+Veolia Environnement,28321,163226
+Kansai Electric Power,28283,32961
+Samsung Life Insurance,28273,6266
+AbbVie,28216,29000
+Royal Philips,28071,73951
+Schneider Electric,27891,155286
+Sumitomo Electric Industries,27820,206323
+Danone,27816,105783
+Suning.com Group,27806,121102
+Ansteel Group,27792,145771
+Gas Natural Fenosa,27653,18780
+Bank of Nova Scotia,27555,88645
+Shougang Group,27489,115482
+Wistron,27480,82955
+Abbott Laboratories,27390,99000
+La Poste,27177,236223
+Koc Holding,27108,120304
+CPC,27106,14814
+Progressive,26839,33656
+GS Caltex,26821,2920
+Mapfre Group,26817,36271
+Arrow Electronics,26813,20100
+Adecco Group,26670,34000
+SK Hynix,26636,22254
+East Japan Railway,26627,73017
+LafargeHolcim,26545,80373
+Altice,26489,47143
+SAP,26446,88543
+Onex,26290,207000
+Australia & New Zealand Banking Group,26283,44896
+Anglo American,26243,69000
+Randstad Holding,26234,38820
+Kraft Heinz,26232,38000
+Plains GP Holdings,26223,4850
+British American Tobacco,26128,55000
+CFE,26108,90000
+Gilead Sciences,26107,10000
+Xinjiang Guanghui Industry Investment,26106,79747
+Nokia,26092,103083
+Samsung C&T,25902,12967
+Mondelez International,25896,83000
+International Airlines Group,25894,64734
+Northrop Grumman,25803,93000
+Chubu Electric Power,25753,30659
+NEC,25673,109390
+Yango Longking Group,25605,20105
+China Taiping Insurance Group,25598,77472
+Flex,25441,200000
+Raytheon,25348,67000
+China Datang,25299,96735
+PKN ORLEN Group,25256,20262
+Ultrapar Holdings,25065,16448
+KB Financial Group,25052,26000
+Achmea,24872,14582
+Macy’s,24837,130000
+Emirates Group,24837,103363
+Heineken Holding,24831,76136
+Suncor Energy,24793,13026
+Energie Baden-Wurttemberg,24769,19939
+Michelin,24754,112800
+Fubon Financial Holding,24688,44173
+Adidas,24669,57016
+Shanxi Jincheng Anthracite Coal Mining Group,24659,142741
+Heraeus Holding,24622,13073
+LG Display,24585,49000
+DXC Technology,24556,130000
+National Australia Bank,24550,35063
+Ceconomy,24432,57582
+Fomento Economico Mexicano,24341,180000
+US Foods Holding,24147,25204
+Taikang Insurance Group,24058,52424
+U.S. Bancorp,23996,72402
+Boehringer Ingelheim,23888,50000
+Rabobank Group,23812,48254
+CJ Corp.,23796,55424
+Yangquan Coal Industry Group,23793,135723
+Shanxi LuAn Mining Group,23785,95796
+Henan Energy & Chemical,23699,182480
+Datong Coal Mine Group,23698,200000
+BAE Systems,23592,83200
+Qingdao Haier,23563,76896
+Ericsson,23556,95359
